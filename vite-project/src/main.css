@@ -1,0 +1,13 @@
+.Heading{
+    font-size: 40px;
+    color: blueviolet;
+    font-weight: 800;
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .Header{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+  }

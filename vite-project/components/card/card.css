@@ -1,0 +1,32 @@
+.Card-Wrapper{
+    height: 250px;
+    width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.7);
+    padding: 10px;
+}
+
+
+
+.Card-Heading{
+    height: 50px;
+    display: flex;
+    font-size: 20px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Image{
+    width: 100%;
+    height: 200px;
+}
+img{
+    height: 100%;
+    width: 100%;
+    
+}
